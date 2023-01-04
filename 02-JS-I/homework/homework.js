@@ -28,7 +28,7 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  return srt
+  return str
 }
 
 function suma(x, y) {
@@ -67,7 +67,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  return srt1.length === srt2.length
+  return str1.length === str2.length
 }
 
 function menosQueNoventa(num) {
@@ -114,7 +114,7 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return Math.pow(num, 2)
+  return Math.pow(num, 3)
 }
 
 function elevar(num, exponent) {
@@ -132,7 +132,7 @@ function redondearNumero(num) {
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  return Math.celi(num)
+  return Math.ceil(num)
 }
 
 function numeroRandom() {
@@ -146,23 +146,23 @@ function esPositivo(numero) {
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
-  if(numero === 0) return false
+  if(numero === 0) return false;
   if(numero>0) return "Es positivo"
-  if(numero<0) "Es negativo"
+  if(numero<0) return "Es negativo"
 }
 
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
-  return srt+"!"
+  return str+"!"
 }
 
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  return "$(nombre) $(apellido)"
+  return `${nombre} ${apellido}`
 }
 
 function obtenerSaludo(nombre) {
