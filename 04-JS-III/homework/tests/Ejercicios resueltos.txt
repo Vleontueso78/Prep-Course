@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a
+un niño de 12 años. Hacer esto te ayudara a descubrir rapidamente cualquier agujero en tu comprension.
+
+. Arrays: Es una funcion que declara mas valores en una sola variable.

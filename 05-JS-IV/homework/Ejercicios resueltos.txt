@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a
+un niño de 12 años. Hacer esto te ayudara a descubrir rapidamente cualquier agujero en tu comprension.
+
+. Objeto: Es una coleccion de clave:valor, la clave seria para identificar el valor que queremos guardar.
+
+. Propiedades: Es una asociasion entre la clave y el valor.
+
+. Metodos: Son funciones guardadas adentro de un tipo de objeto.
+
+. Bucle for...in: Es una sintaxis que comienza igual pero entre parentesis declaramos una variable, la palabra clave in y el nombre del objeto.
+Esto recorrera cada clave del objeto y finalizara cuando se hayan iterado todas las claves.

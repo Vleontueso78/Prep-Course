@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribir explicaciones de los siguientes conceptos como si se lo estuvieras explicando a
+un niño de 12 años. Hacer esto te ayudara a descubrir rapidamente cualquier agujero en tu compresion.
+
+. for: Esta funcion se utiliza cuando queremos que una variable realize un bucle ya sea ascendente o descendiente.
+
+. &&: Esta funcion se utiliza cuando necesitamos que las dos variables sean verdaderas para que se ejecute el codigo.
+
+. ||: Esta funcion se utiliza cuando necesitamos que por lo menos 1 variable sea verdadera para que se ejecute el codigo.
+
+. !: Esta funcion se utiliza cuando necesitamos lo contrario de la variable que utilizamos.
